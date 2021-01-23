@@ -3,7 +3,7 @@
 <body> <style>
   
   body {
-  background-image: url('earth.jpg');
+  background-image: url('realistic-illustration-earth-with-stars-wallpaper-background-design-templates-3d_172016-33');
 }
   </style>
   
