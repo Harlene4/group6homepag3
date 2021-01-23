@@ -1,29 +1,17 @@
-<html>
-<head> <title>COVID PANDEMIC </title> </head>
-<body> <style>
-  
-<h2>HTML Image</h2>
-<img src="earth.jpg" alt="Girl in a jacket" width="500" height="600">
-
-
-  </style>
-  
-<br><br><br>
-<br><br><br>
-<br><br><br>
-
-<marquee> <b> <font color="lightgreen",size= "50"><h2> WELCOME TO OUR WEBSITE</h2> </font> </b> </marquee> 
-<style>
-h1 {
-  color: white;
-  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+<HTML>
+<HEAD> <TITLE> MY HOME PAGE </TITLE> </HEAD>
+<BODY> <style>
+body {
+  background-image: url('IMG/abstract-6.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 </style>
-<center><b><font color="white", size= "48"><h1>The Global<br>Pandemic</h1> </font> </b></center>
-<center><b><font color= "white" , size= "20"> GROUP#6 </font> </center>
-<p align="center"> <img src = "virus.jpg" , width = 210 , length = 210></img><br>
+<FONT FACE = "VERDANA", color = "FF0099", SIZE = 7> <B> D'TLE 9: 2020-2021 </B> </FONT><br><br>
 
+<FONT COLOR = "3300ff", SIZE = 50, FACE = "CHILLER">
+    <marquee direction="down" width="250" height="550" behavior="alternate" >
+      <marquee behavior="alternate"><BR><b> <br>
+      WELCOME <BR> <BR> TO MY <BR> <BR> HOMEPAGE </MARQUEE> </MARQUEE> </FONT></b>
 
- </body>
-
-</html>
