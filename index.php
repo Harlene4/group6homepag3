@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<img src="https://cdn2.vectorstock.com/i/1000x1000/66/36/technology-background-with-earth-and-circuit-vector-25976636.jpg" alt="Flowers in Chania" width = 1200 , length = 800> <p align="center">
+<body background = "https://cdn2.vectorstock.com/i/1000x1000/66/36/technology-background-with-earth-and-circuit-vector-25976636.jpg" , width = 1200 , length = 800> <p align="center">
 
 <br><br><br>
 <br><br><br>
