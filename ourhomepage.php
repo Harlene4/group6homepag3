@@ -3,12 +3,10 @@
 <title>COVID PANDEMIC </title>
 </head>
 <body> 
-
+<style>
+  
 body {
   background-image: url('earth.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
 }
 
 <br><br><br>
