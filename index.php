@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<body background = "https://ocean.si.edu/sites/default/files/styles/article_main_image/public/globe_1.jpg?itok=lNZfrSkQ" , width = 1200 , length = 800> <p align="center">
+<body background = "https://ocean.si.edu/sites/default/files/styles/article_main_image/public/globe_1.jpg?itok=lNZfrSkQ" , width = 1000 , length = 500> <p align="center">
 
 <br><br><br>
 <br><br><br>
