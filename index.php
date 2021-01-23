@@ -3,7 +3,7 @@
 <title>COVID PANDEMIC </title>
 </head>
 <body> 
- <p align="center"> <body background= "https://i.pinimg.com/originals/1c/6a/8b/1c6a8b1c629f18ddfc469bccb54b4f45.jpg" , width = 210 , length = 210></img><br>
+ <p align="center"> <body background= "https://www.nachhaltigkeitspreis.de/media/2-Preis/Header_Dateien/deutscher-nachhaltigkeitspreis-duesseldorf-header-transformation-2020.jpg" , width = 210 , length = 210></img><br>
 <br><br><br>
 <br><br><br>
 <br><br><br>
