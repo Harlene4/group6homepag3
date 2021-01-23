@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<body background = "https://ocean.si.edu/sites/default/files/styles/article_main_image/public/globe_1.jpg?itok=lNZfrSkQ" , width = 500 , length = 500> <p align="center">
+<body background = "https://www.nachhaltigkeitspreis.de/media/2-Preis/Header_Dateien/deutscher-nachhaltigkeitspreis-duesseldorf-header-transformation-2020.jpg" , width = 500 , length = 500> <p align="center">
 
 <br><br><br>
 <br><br><br>
