@@ -4,7 +4,7 @@
 </head>
 <body> 
 
-<body background = "https://cdn2.vectorstock.com/i/1000x1000/66/36/technology-background-with-earth-and-circuit-vector-25976636.jpg" , width = 1200 , length = 800> <p align="center">
+<body background = "https://www.nachhaltigkeitspreis.de/media/2-Preis/Header_Dateien/deutscher-nachhaltigkeitspreis-duesseldorf-header-transformation-2020.jpg" , width = 1200 , length = 800> <p align="center">
 
 <br><br><br>
 <br><br><br>
@@ -19,7 +19,7 @@ h1 {
 </style>
 <center><b><font color="white", size= "48"><h1>The Global<br>Pandemic</h1> </font> </b></center>
 <center><b><font color= "white" , size= "20"> GROUP#6 </font> </center>
-<p align="center"> <img src = "virus.jpg" , width = 210 , length = 210></img><br>
+<p align="center"> <img src = "https://i.pinimg.com/originals/1c/6a/8b/1c6a8b1c629f18ddfc469bccb54b4f45.jpg" , width = 210 , length = 210></img><br>
 
 
  </body>
