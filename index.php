@@ -1,14 +1,12 @@
 <html>
-<head>
-<title>COVID PANDEMIC </title>
-</head>
-<body> 
-<style>
+<head> <title>COVID PANDEMIC </title> </head>
+<body> <style>
   
-body {
+  body {
   background-image: url('earth.jpg');
 }
-
+  </style>
+  
 <br><br><br>
 <br><br><br>
 <br><br><br>
