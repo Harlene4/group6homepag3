@@ -3,12 +3,8 @@
 <title>COVID PANDEMIC </title>
 </head>
 <body> 
- <p align="center"> 
-  {body background= "https://dev.rodpub.com/images/218/411_main.jpg" , width = 1200 , length = 800;
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-  background-size: cover;  
-  }
+ <p align="center"> <body background= "https://dev.rodpub.com/images/218/411_main.jpg" , width = 1200 , length = 800> </img>
+    
 <br><br><br>
 <br><br><br>
 <br><br><br>
