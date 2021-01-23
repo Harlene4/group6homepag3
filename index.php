@@ -2,9 +2,10 @@
 <head> <title>COVID PANDEMIC </title> </head>
 <body> <style>
   
-  body {
-  background-image: url('https://www.google.com/search?q=earth+design+background&tbm=isch&source=iu&ictx=1&fir=l4CJpfRvSkehDM%252C8NNOR_o2HKJZAM%252C_&vet=1&usg=AI4_-kQThVDlXGEKIISYi_BS52AXwHuamg&sa=X&ved=2ahUKEwjs-fXxubHuAhUYZt4KHVX_DYsQ9QF6BAgPEAE&cshid=1611384423767906&biw=1366&bih=600#imgrc=l4CJpfRvSkehDM');
-}
+<h2>HTML Image</h2>
+<img src="earth.jpg" alt="Girl in a jacket" width="500" height="600">
+
+
   </style>
   
 <br><br><br>
